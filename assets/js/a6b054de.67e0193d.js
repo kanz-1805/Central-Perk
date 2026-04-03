@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkaviator_22=globalThis.webpackChunkaviator_22||[]).push([[6286],{3518(a){a.exports=JSON.parse('{"metadata":{"permalink":"/Central-Perk/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

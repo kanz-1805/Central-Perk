@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkaviator_22=globalThis.webpackChunkaviator_22||[]).push([[1903],{1912(a){a.exports=JSON.parse('{"blogBasePath":"/Central-Perk/blog","blogTitle":"Blog","authorsListPath":"/Central-Perk/blog/authors"}')}}]);
